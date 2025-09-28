@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: Suraj's Blog
-description: My personal blog powered by GitHub Pages
+description: Thoughts, tutorials, and experiments
+author: Suraj
+show_downloads: false
